@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnPipeline", "LearnPipeline.csproj", "{6287FC2E-5369-407C-AA8E-E817E652BEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6287FC2E-5369-407C-AA8E-E817E652BEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6287FC2E-5369-407C-AA8E-E817E652BEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6287FC2E-5369-407C-AA8E-E817E652BEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6287FC2E-5369-407C-AA8E-E817E652BEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {424BEADC-9FE0-4EFB-8DB3-16B1DDD36A28}
+	EndGlobalSection
+EndGlobal
